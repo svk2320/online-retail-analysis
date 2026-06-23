@@ -446,3 +446,14 @@ online-retail-analysis/
 ---
 
 *This project demonstrates end-to-end analytics capability from raw data profiling to business decision-making insights.*
+
+
+---
+
+## Full Project Availability
+
+This repository showcases the core architecture, methodology, and selected outputs of the project.
+
+The complete implementation is maintained in a private repository because it contains proprietary work, large datasets, or materials that cannot be shared publicly.
+
+Recruiters and hiring managers interested in reviewing the full project may contact me via LinkedIn or email to arrange access or a walkthrough.
