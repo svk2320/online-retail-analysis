@@ -447,7 +447,6 @@ online-retail-analysis/
 
 *This project demonstrates end-to-end analytics capability from raw data profiling to business decision-making insights.*
 
-
 ---
 
 ## Full Project Availability
